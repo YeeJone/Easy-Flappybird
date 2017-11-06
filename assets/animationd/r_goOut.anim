@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "r_goOut",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 300,
+          "curve": "quartIn"
+        },
+        {
+          "frame": 0.5,
+          "value": 800
+        }
+      ]
+    }
+  },
+  "events": []
+}
